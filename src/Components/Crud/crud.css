@@ -1,0 +1,17 @@
+.input {
+  display: inline-block;
+  margin: 0 0.5rem 0 0;
+}
+
+.input input {
+  height: 1.5rem;
+  margin: auto 0;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+button {
+  height: 2rem;
+  border-radius: 5px;
+  margin: 0 0.5rem;
+}
